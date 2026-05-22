@@ -1,14 +1,9 @@
-# FMHY
-
-![FMHY Banner](https://github.com/user-attachments/assets/0d43950d-a56f-437f-b9f6-afaed2313370)
+# VFMHY
 
 <p align="center"> <b> The largest collection of free stuff on the internet! </b> </p>
 
 ## 📖 Wiki
 
-- Website: [fmhy.net](https://fmhy.net)
-- News & Monthly Updates: [fmhy.net/posts](https://fmhy.net/posts)
-- Backups, Markdown, JSON API: [github.com/fmhy/FMHY/wiki/Backups](https://github.com/fmhy/FMHY/wiki/Backups)
 - Neither the site nor GitHub host any files
 
 ## 🗺️ Emoji Legend
