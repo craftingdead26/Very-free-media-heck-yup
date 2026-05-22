@@ -16,7 +16,7 @@ Here you'll find some general guidelines for those who would like to start contr
 > For bigger changes to the wiki, such as debloating efforts or the restructuring of a page/section, you must first discuss these with us via [Discord](https://github.com/fmhy/FMHY/wiki/FMHY-Discord) before opening a [Pull Request](https://github.com/fmhy/edit/pulls).
 
 **Don't submit any of the following:**
-
+- **🏴‍☠️ Piracy** - We don't accept any non-legal / Piracy entries. 
 - **💰️ Paid / Trial Sites** - We don't accept any paid or free trial only entries, with the exception of select paid [VPNs](/privacy#vpn) and [Debrid](/downloading#debrid-leeches).
 - **🕹️ Emulators** - Already listed on [Index Sites](/gaming#emulators).
 - **🌐 Web Browsers** - Good open-source browsers are already listed, so we just accept indexes, privacy-focused, and good mobile ones.
