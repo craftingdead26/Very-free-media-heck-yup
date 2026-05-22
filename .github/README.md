@@ -6,6 +6,34 @@
 
 - Neither the site nor GitHub host any files
 
+- Progress
+-  Beginners Guide 🚧
+-  Adblocking / Privacy ❌
+-  Artificial Intelligence ❌
+-  Movies / TV / Anime ❌
+-  Music / Podcasts / Radio ❌
+-  Gaming / Emulation ❌
+-  Books / Comics / Manga ❌
+-  Downloading ❌
+-  Torrenting ❌
+-  Educational ❌
+-  Android / iOS ❌
+-  Linux / macOS ❌
+-  Non-English ❌
+-  Miscellaneous ❌
+-  System Tools ❌
+-  File Tools ❌
+-  Internet Tools ❌
+-  Social Media Tools ❌
+-  Text Tools ❌
+-  Gaming Tools ❌
+-  Image Tools ❌
+-  Video Tools ❌
+-  Audio Tools ❌
+-  Educational Tools ❌
+-  Developer Tools ❌
+-  Storage ❌
+
 ## 🗺️ Emoji Legend
  
 * 🌐 - **3rd Party Indexes**
